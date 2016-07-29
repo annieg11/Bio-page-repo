@@ -1,0 +1,74 @@
+
+
+
+body{
+	background-image: url(http://wallpapercave.com/wp/j77l1TC.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	position: fixed;
+	font-size: 18px;
+	line-height:  150%;
+	font-family: Georgia,serif;
+	padding: 1;
+	margin: 3;
+ 
+
+}
+#myself {background-color: rgba(51,51,51,0.3);	
+
+		
+}
+
+#heading1{
+	background-color:rgba(51,51,51,0.3);	
+	color: black;
+	padding: 20px 0;
+	margin:0;
+	font-size: 30px;
+	text-align: left;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	text-decoration: underline;
+	
+}
+
+h2{
+	font-size: 24px;
+}
+	
+.container{
+	width:1030px;
+	margin: 0 auto;
+	margin-left: 20px;
+}
+
+#main-bio,
+#contact-info,
+#bio-image {
+
+	float: left;
+
+}
+#main-bio{
+	width:70%;
+}
+
+
+#contact-info{
+	width:40%;
+	margin-bottom: 20px;
+	margin: 5;
+
+}
+
+#bio-image{
+	width:150px;
+	
+	 margin-right: 25px;
+}
+
+
+
+
+
+
