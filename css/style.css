@@ -4,14 +4,14 @@
 body{
 	background-image: url(http://wallpapercave.com/wp/j77l1TC.jpg);
 	background-repeat: no-repeat;
-	/*background-size:cover;*/
-	background-position: fixed;
+	background-size:cover;
+	position: fixed;
 	font-size: 18px;
-/*	line-height:  150%;
+	line-height:  150%;
 	font-family: Georgia,serif;
 	padding: 1;
 	margin: 3;
- */
+ 
 
 }
 #myself {background-color: rgba(51,51,51,0.3);	
